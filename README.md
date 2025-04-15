@@ -1,1 +1,11 @@
 # BenProject
+
+# Project OverView
+
+Ben's resume template can be served as one-page HTML profile for anyone. You can quickly edit and put your own profile information and contact details. Since this layout is based on Bootstrap v5.3.5. CSS
+
+# Technologies Used
+
+HTML, CSS, Bootstrap v5.3.5, owl Corousel JQuery plugin, and Javascript
+
+# Instructions to run locally
